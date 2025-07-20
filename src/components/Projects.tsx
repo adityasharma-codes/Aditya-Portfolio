@@ -18,17 +18,17 @@ const Projects = () => {
       technologies: ["React", "TypeScript", "Next.js", "Socket.io", "Groq AI", "API", "Tailwind CSS"],
       features: ["Real-time Updates", "Drag & Drop", "Team Collaboration", "Analytics"],
       image: "/images/Shaktipath.png",
-      liveUrl: "#",
-      codeUrl: "#"
+      liveUrl: "https://sakhtipath-workoutplanner.vercel.app/",
+      codeUrl: "https://github.com/adityasharma-codes/Shakti-Path"
     },
     {
       title: "Smwaad - Chat Application",
       description: "A real-time chat application with user authentication, group messaging, and real-time notifications.",
       technologies: ["React", "TypeScript","Express.js", "Node.js", "FastAPI", "Redis", "Socket.io"],
-      features: ["Data Visualization", "Automated Reports", "Real-time Metrics", "API Integration"],
-      image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      codeUrl: "#"
+      features: ["Group Messaging", "User Authentication", "Real-time Notifications", "Private Chat"],
+      image: "/images/smwaad.png",
+      liveUrl: "https://sakhtipath-workoutplanner.vercel.app/",
+      codeUrl: "https://github.com/adityasharma-codes/Shakti-Path"
     },
     {
       title: "E-Commerce MERN Application",

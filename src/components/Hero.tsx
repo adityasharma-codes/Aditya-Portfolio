@@ -33,6 +33,14 @@ const Hero = () => {
             >
               Get In Touch
             </button>
+            <a
+  href="https://drive.google.com/file/d/1bVXEm91fpkUDGCkkxUDREupurh8H7fsk/view"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-8 py-3 border border-blue-400 text-blue-400 hover:bg-cyan-400 hover:text-black rounded-lg transition-colors duration-200 font-semibold text-center"
+>
+  Check Resume
+</a>
           </div>
         </div>
       </div>
