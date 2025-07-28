@@ -36,8 +36,8 @@ const Projects = () => {
       technologies: ["MongoDB", "Express.js", "React", "Node.js", "Stripe API", "JWT"],
       features: ["User Authentication", "Payment Gateway", "Admin Panel", "Inventory Management"],
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      codeUrl: "#"
+      liveUrl: "https://github.com/adityasharma-codes/Ecommerce_Nodejs",
+      codeUrl: "https://github.com/adityasharma-codes/Ecommerce_Nodejs"
     },
     {
       title: "File Share Url Basic",
