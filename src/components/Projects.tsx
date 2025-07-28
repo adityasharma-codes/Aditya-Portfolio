@@ -27,8 +27,8 @@ const Projects = () => {
       technologies: ["React", "TypeScript","Express.js", "Node.js", "FastAPI", "Redis", "Socket.io"],
       features: ["Group Messaging", "User Authentication", "Real-time Notifications", "Private Chat"],
       image: "/images/smwaad.png",
-      liveUrl: "https://sakhtipath-workoutplanner.vercel.app/",
-      codeUrl: "https://github.com/adityasharma-codes/Shakti-Path"
+      liveUrl: "https://smwaad-chat-app.vercel.app/",
+      codeUrl: "https://github.com/adityasharma-codes/Smwaad-Chat_APP"
     },
     {
       title: "E-Commerce MERN Application",
@@ -40,22 +40,22 @@ const Projects = () => {
       codeUrl: "#"
     },
     {
-      title: "Task Management Dashboard",
-      description: "A collaborative project management tool with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      technologies: ["React", "TypeScript", "Node.js", "Socket.io", "PostgreSQL"],
+      title: "File Share Url Basic",
+      description: "A simple file sharing application that allows users to upload files and generate shareable download links for easy access.",
+      technologies: ["React", "JavaScript", "Node.js"],
       features: ["Real-time Updates", "Drag & Drop", "Team Collaboration", "Analytics"],
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      codeUrl: "#"
+      image: "/images/fileshare.png",
+      liveUrl: "https://fileshare-ajfv.onrender.com/",
+      codeUrl: "https://github.com/adityasharma-codes/fileshare"
     },
     {
-      title: "Social Media Analytics Tool",
-      description: "Analytics dashboard for social media metrics with data visualization, automated reporting, and performance insights.",
-      technologies: ["React", "D3.js", "Python", "FastAPI", "Redis", "Chart.js"],
-      features: ["Data Visualization", "Automated Reports", "Real-time Metrics", "API Integration"],
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
-      liveUrl: "#",
-      codeUrl: "#"
+      title: "Pravesh - Login/Signup Interface",
+      description: "Login and signup interface for user authentication with social media integration.",
+      technologies: ["React", "NodeJs", "Express", "Tailwind CSS"],
+      features: ["Social Media Login", "Email/Password Authentication", "Responsive Design"],
+      image: "/images/pravesh.png",
+      liveUrl: "https://pravesh-ui.vercel.app/login",
+      codeUrl: "https://github.com/adityasharma-codes/Pravesh"
     },
   ];
 
